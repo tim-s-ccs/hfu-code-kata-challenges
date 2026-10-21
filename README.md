@@ -26,17 +26,17 @@ I will provide a project setup in pythonusing `uv` but you are welcome to use an
 
 ## Leaderboard
 
-| Person  | Total | Challenge 1                         |
-|---------|-------|-------------------------------------|
-| Claude  | 7     | 5 + 1 (smallest) + 1 (ingenious)    |
-| Ricky   | 5     | 4 + 1 (fastest)                     |
-| Tim     | 5     | 5                                   |
-| Rich    | 3     | 3                                   |
-| Manny   | 2     | 2                                   |
-| Kat     |       |                                     |
-| Etido   |       |                                     |
-| Scott   |       |                                     |
-| Matt    |       |                                     |
-| Turhan  |       |                                     |
-| Kishan  |       |                                     |
-| Chris   |       |                                     |
+| Person    | Total | Challenge 1                         |
+|-----------|-------|-------------------------------------|
+| Ricky     | 5     | 4 + 1 (fastest)                     |
+| Tim       | 5     | 5                                   |
+| Rich      | 3     | 3                                   |
+| Manny     | 2     | 2                                   |
+| Kat       |       |                                     |
+| Etido     |       |                                     |
+| Scott     |       |                                     |
+| Matt      |       |                                     |
+| Turhan    |       |                                     |
+| Kishan    |       |                                     |
+| Chris     |       |                                     |
+| (Claude)  | 7     | 5 + 1 (smallest) + 1 (ingenious)    |
