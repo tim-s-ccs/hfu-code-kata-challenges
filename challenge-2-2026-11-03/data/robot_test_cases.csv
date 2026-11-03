@@ -1,0 +1,16 @@
+name,instructions,expected_final_x,expected_final_y,expected_furthest_distance,expected_unique_positions,expected_first_revisited_x,expected_first_revisited_y
+empty journey,,0,0,0,1,,
+one move north,N,0,1,1,2,,
+one move each direction,NESW,0,0,2,4,0,0
+example journey,NNEESW,1,1,4,7,,
+straight north,NNNNN,0,5,5,6,,
+straight west,WWWW,-4,0,4,5,,
+immediate revisit,NS,0,0,1,2,0,0
+revisit away from home,NENS,1,1,3,4,1,1
+small square twice,NESWNESW,0,0,2,4,0,0
+horizontal crossing,EEWW,0,0,2,3,1,0
+vertical crossing,SSNN,0,0,2,3,0,-1
+mixed journey,NNNEESSWW,0,1,5,9,0,1
+long rectangle,NNNNEEESSSSWWW,0,0,7,14,0,0
+negative coordinates,SSSWWN,-2,-2,5,7,,
+several revisits,NSEWNS,0,0,1,3,0,0
