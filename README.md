@@ -16,6 +16,8 @@ This will then be multiplied by the power level:
 - `MEDIUM` - x1.5
 - `HARD` - x2
 
+This is then averaged over the challenges and added to the attendance mark
+
 I will provide a project setup in pythonusing `uv` but you are welcome to use any programming language of your choice.
 
 **Remember, you are not allowed to use AI for this challenge! This is exercises for your brain 🧠**
@@ -27,17 +29,17 @@ I will provide a project setup in pythonusing `uv` but you are welcome to use an
 
 ## Leaderboard
 
-| Person    | Total | Challenge 1                         |
-|-----------|-------|-------------------------------------|
-| Ricky     | 5     | 4 + 1 (fastest)                     |
-| Tim       | 5     | 5                                   |
-| Rich      | 3     | 3                                   |
-| Manny     | 2     | 2                                   |
-| Kat       |       |                                     |
-| Etido     |       |                                     |
-| Scott     |       |                                     |
-| Matt      |       |                                     |
-| Turhan    |       |                                     |
-| Kishan    |       |                                     |
-| Chris     |       |                                     |
-| (Claude)  | 7     | 5 + 1 (smallest) + 1 (ingenious)    |
+| Person    | Score | Total | Challenge 1                       | Challenge 2 |
+|-----------|-------|-------|-----------------------------------|-------------|
+| Tim       | 7     | 10    | 5                                 | 5           |
+| Rich      | 6     | 8     | 3                                 | 5           |
+| Ricky     | 6     | 5     | 4 + 1 (fastest)                   |             |
+| Manny     | 3     | 2     | 2                                 | 0           |
+| Kat       |       |       |                                   |             |
+| Etido     |       |       |                                   |             |
+| Scott     |       |       |                                   |             |
+| Matt      |       |       |                                   |             |
+| Turhan    |       |       |                                   |             |
+| Kishan    |       |       |                                   |             |
+| Chris     |       |       |                                   |             |
+| (Claude)  |       | 7     | 5 + 1 (smallest) + 1 (ingenious)  |             |
