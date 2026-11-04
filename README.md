@@ -26,6 +26,7 @@ I will provide a project setup in pythonusing `uv` but you are welcome to use an
 
 1. [Anagrams](/challenge-1-2026-10-21/CHALLENGE.md) (`EASY`)
 2. [Lost Robot](/challenge-2-2026-11-03/CHALLENGE.md) (`EASY`)
+3. [Become a Rustacean](/challenge-3-2026-11-18/CHALLENGE.md) (`MEDIUM`)
 
 ## Leaderboard
 
