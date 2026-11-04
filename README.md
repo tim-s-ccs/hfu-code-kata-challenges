@@ -22,7 +22,8 @@ I will provide a project setup in pythonusing `uv` but you are welcome to use an
 
 ## Challenges
 
-1. [Anagrams](/challenge-1-2027-10-21/CHALLENGE.md) (`EASY`)
+1. [Anagrams](/challenge-1-2026-10-21/CHALLENGE.md) (`EASY`)
+2. [Lost Robot](/challenge-2-2026-11-03/CHALLENGE.md) (`EASY`)
 
 ## Leaderboard
 
